@@ -1,5 +1,7 @@
 # Hackintosh, MSI MAG X870 Tomahawk WiFi, AMD Ryzen 5 7600X, AMD Radeon RX 6600 XT 
 
+![Portfolio - 1](https://github.com/user-attachments/assets/6774f49f-c306-4d51-adae-6f6fe789ba41)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.4.1)
